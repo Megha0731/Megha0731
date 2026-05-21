@@ -30,14 +30,12 @@ I'm dedicated to crafting robust, efficient, and impactful AI solutions. With a 
 
 ## ⭐ Featured Repositories
 
-<div align="center">
-
-[![AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Megha0731&repo=AI_ASSISTANT&theme=tokyonight&hide_border=true)](https://github.com/Megha0731/AI_ASSISTANT)
-[![Intelligent AI Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=Megha0731&repo=Intelligent-AI-Attendance-System&theme=tokyonight&hide_border=true)](https://github.com/Megha0731/Intelligent-AI-Attendance-System)
-[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=Megha0731&repo=movie_recommendation_system&theme=tokyonight&hide_border=true)](https://github.com/Megha0731/movie_recommendation_system)
-[![Train Flappy Bird RL Agent](https://github-readme-stats.vercel.app/api/pin/?username=Megha0731&repo=Train-Flappy-Bird-RL-Agent&theme=tokyonight&hide_border=true)](https://github.com/Megha0731/Train-Flappy-Bird-RL-Agent)
-
-</div>
+| 🔗 Repository | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| [🤖 AI Assistant](https://github.com/Megha0731/AI_ASSISTANT) | ChatGPT-like AI web app built with Flask & Groq API | HTML, Flask, Groq API |
+| [🎓 Intelligent AI Attendance System](https://github.com/Megha0731/Intelligent-AI-Attendance-System) | Automated attendance using face recognition & voice verification to prevent proxy attendance | Python, OpenCV, Face Recognition |
+| [🎬 Movie Recommendation System](https://github.com/Megha0731/movie_recommendation_system) | Personalized movie recommender using collaborative & content-based filtering | Python, Jupyter |
+| [🐦 Train Flappy Bird RL Agent](https://github.com/Megha0731/Train-Flappy-Bird-RL-Agent) | DQN-based reinforcement learning agent that learns to play Flappy Bird autonomously | Python, DQN, RL |
 
 ---
 
@@ -110,7 +108,6 @@ I'm dedicated to crafting robust, efficient, and impactful AI solutions. With a 
 - 📜 **NPTEL** — Database Management System *(September 2025)*
 - 🏅 **AITR-ACM** — Prayatna 1.0 Hackathon Participant *(March 2024)*
 - 💻 **LeetCode** — Online Coding Contest Participant
-- 🎨 Rangoli Competition *(October 2024 & 2025)*
 
 ---
 
@@ -119,7 +116,5 @@ I'm dedicated to crafting robust, efficient, and impactful AI solutions. With a 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 **⭐ If you find my projects helpful, please consider giving them a star!**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Megha0731&color=blueviolet&style=for-the-badge)
 
 </div>
