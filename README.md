@@ -86,8 +86,7 @@ I'm dedicated to crafting robust, efficient, and impactful AI solutions. With a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Megha0731&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha0731&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 
 <br/>
 
